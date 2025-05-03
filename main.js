@@ -8,7 +8,7 @@ let startTime = 0;
 let endTime = 0;
 let isInGame = false;
 
-const letterList = [..."GOTOUSOUTA"];
+const letterList = [..."SAKAIATSUMU"];
 let letterIndex = 0;
 
 const gameStart = async () => {
